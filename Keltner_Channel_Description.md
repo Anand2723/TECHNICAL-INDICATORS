@@ -1,4 +1,4 @@
-KELTNER CHANNEL
+# KELTNER CHANNEL
 The Keltner Channel is a technical indicator that is often used by traders to identify volatility and the direction of the market.
 The Keltner Channel is composed of three components: The upper band, the lower band, and the middle line where :
 
